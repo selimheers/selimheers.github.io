@@ -11,7 +11,7 @@ In some form or other, I often think about the following number of questions at 
 3. What, if anything, characterises human agency both as distinctively human and as distinctively active?
 4. What is the import of the tradition of moral perfectionism for radical political thought and social critique?
 
-With every one of these questions, I also think a great deal about how we should think about the question itself: how, if in any way, are we to understand it and its central terms — what is its meaning and import, what sort of answer are we looking for in responding to it, and how are we to approach the business of finding such an answer and what would count as a satisfying or right answer? In short, I think a great deal about how to do philosophy in the first place; and about what, if anything, characterises philosophical questions and answers as such.
+With every one of these questions, I also think a great deal about how we should think about the question itself: how, if at all, are we to understand it and its central terms — what is its meaning and import, what sort of answer are we looking for in responding to it, and how are we to approach the business of finding such an answer and what would count as a satisfying or right answer? In short, I think a great deal about how to do philosophy in the first place; and about what, if anything, characterises philosophical questions and answers as such.
 
 I am currently working on three essays:
 
