@@ -8,8 +8,8 @@ permalink: pretty
 
 # Links next to Pagetitle
 pages_list:
-  Research: '/research'
-  Teaching: '/teaching'
+  # Research: '/research'
+  # Teaching: '/teaching'
 
 # Gems
 plugins:
